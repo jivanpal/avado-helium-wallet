@@ -1,0 +1,6 @@
+version: '3.4'
+services:
+  helium-wallet.package.avado.eth:
+    build: ./build
+    image: 'helium-wallet.package.avado.eth:0.0.1'
+    restart: always

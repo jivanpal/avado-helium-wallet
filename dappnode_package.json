@@ -1,0 +1,15 @@
+{
+  "name": "helium-wallet.package.avado.eth",
+  "version": "0.0.1",
+  "description": "Wallet for the Helium network blockchain",
+  "autoupdate": true,
+  "type": "service",
+  "avatar": "/ipfs/QmYRmFCtdXvqq3drc6kBXxeWiiMatTfKVpVrmLX883cQbR",
+  "author": "Jivan Pal",
+  "image": {},
+  "links": {
+    "homepage": "https://your-project-homepage-or-docs.io"
+  },
+  "license": "All rights reserved",
+  "builddate": "2021-05-07T21:15:02.688Z"
+}
