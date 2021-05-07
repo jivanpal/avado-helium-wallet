@@ -1,2 +1,6 @@
 # DAppNodeSDK release directories
-build_*
+/build_*
+
+node_modules
+
+/build/files/wallet/*
